@@ -14,12 +14,11 @@ If you are using Computer Vision (CV), you can detect a geographic feature in th
 MAF only flies during the day, so your device does not need to work at night. So using a light color sensor to detect the color of the sky might be a good option. 
 
 Your device can display the visibility result, true or false, by lighting up an LED, displaying a value on a display, sending a value over the network using a transport like MQTT, or other system that is simple and economical. 
-More information can be found at https://github.com/K7TRY/MAF-Electronic-Visibility-Gauge 
  
 Definition Of Done
 MAF is looking for a proof of concept that gets the visibility detection correct 9 times out of 10. Please remember that even a failed experiment is useful. Do what you can to be successful, but remember that some hardware and distance combinations may not work.
 
-Please fill out the form below to document your test. A video, and still pictures of your experiment, as well as source code and wiring diagram are all part of a completely documented project. Please e-mail these to estoddard@maf.org. 
+Please fill out the form below to document your test. A video, and still pictures of your experiment, as well as source code and wiring diagram are all part of a completely documented project.
 
 Electronic Visibility Gauge Results
 
